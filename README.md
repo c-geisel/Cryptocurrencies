@@ -8,8 +8,8 @@ A prominent investment bank is looking to invest in cryptocurrencies. However, i
 ## Results 
 Using an elbow curve, it is decided that 4 is the best k value to use and thus our dataset is grouped into 4 clusters. The results can be seen in the 3D graph below. 
 
-![3d_plot.png](Images/3d_plot.png)
+![3d_plot.png](Resources/3d_plot.png)
 
 The values are then scaled to create a 2d graph to depict the same information from a different lense. 
 
-![2d_plot.png](Images/2d_plot.png)
+![2d_plot.png](Resources/2d_plot.png)
